@@ -6,4 +6,7 @@ This is a discord account status changing SelfBot ( Status1, Status2, Status3, |
 ___________________________________________________________________________________________________
 Run the file and follow the steps it asks.
 
-add vanvansz - discord for more help
+add lxckwyd - discord for more help
+
+
+*MIGHT NOT WORKED HAVENT UPDATED IN A WHILE*
